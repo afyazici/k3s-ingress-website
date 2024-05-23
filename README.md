@@ -34,7 +34,7 @@ sudo kubectl apply -f https://raw.githubusercontent.com/kubernetes/ingress-nginx
 Apply the Load Balancer configuration:
 
 ```bash
-sudo kubectl apply -f loadbalancer.yaml
+sudo kubectl apply -f ingres-loadbalancer.yaml
 ```
 
 4. Deploy the Nginx Website
